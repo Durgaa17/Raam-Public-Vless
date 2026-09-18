@@ -14,11 +14,5 @@ vless://a1dd88e7-98ae-418f-8794-71000e16f71a@104.18.20.212:443?path=%2Fvless&sec
 # Server 4: [VLESS-TLS] VIP1
 vless://a1dd88e7-98ae-418f-8794-71000e16f71a@104.18.20.212:443?path=%2Fvless&security=tls&encryption=none&host=gcp.hothotplus.my.id&type=ws&sni=gcp.hothotplus.my.id#%5BVLESS-TLS%5D%20VIP1
 
-# Server 5: Toron UpCloud Oren Exp/Live
-vless://c2ba2709-772a-4a98-b02b-8595a4f4eff3@172.66.40.170:80?encryption=none&type=ws&host=tor.madvpn.xx.kg&headerType=none&path=%2F#Toron%20UpCloud%20Oren%20Exp%2FLive
-
-# Server 6: Toron UpCloud Kuning Exp/Live
-vless://c2ba2709-772a-4a98-b02b-8595a4f4eff3@104.18.20.212:80?encryption=none&type=ws&host=tor.madvpn.xx.kg&headerType=none&path=%2F#Toron%20UpCloud%20Kuning%20Exp%2FLive
-
-# Server 7: Toron UpCloud KuningWow Exp/Live
-vless://c2ba2709-772a-4a98-b02b-8595a4f4eff3@172.66.169.187:80?encryption=none&type=ws&host=tor.madvpn.xx.kg&headerType=none&path=%2F#Toron%20UpCloud%20KuningWow%20Exp%2FLive
+# Server 5: Toron UpCloud Kuning Exp/Live
+vless://c2ba2709-772a-4a98-b02b-8595a4f4eff3@104.18.20.212:80?path=%2F&security=&encryption=none&host=tor.madvpn.xx.kg&type=ws#Toron%20UpCloud%20Kuning%20Exp%2FLive
