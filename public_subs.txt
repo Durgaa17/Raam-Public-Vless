@@ -16,3 +16,9 @@ vless://a1dd88e7-98ae-418f-8794-71000e16f71a@104.18.20.212:443?path=%2Fvless&sec
 
 # Server 5: belanja
 vless://81138b02-f1db-405c-b771-da9aa5e45f90@104.18.21.212:80?path=%2F&encryption=none&type=ws&host=speedtest.net.upcloud.pakya.online#belanja
+
+# Server 6: belanja
+vless://81138b02-f1db-405c-b771-da9aa5e45f90@104.17.148.22:80?path=/&encryption=none&type=ws&host=www.speedtest.net.upcloud.pakya.online#belanja
+
+# Server 7: belanja
+vless://81138b02-f1db-405c-b771-da9aa5e45f90@172.66.43.86:80?path=%2F&encryption=none&type=ws&host=cdn.opensignal.com.upcloud.pakya.online#belanja
