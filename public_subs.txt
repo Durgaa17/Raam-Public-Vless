@@ -13,3 +13,9 @@ vless://a1dd88e7-98ae-418f-8794-71000e16f71a@104.18.20.212:443?path=%2Fvless&sec
 
 # Server 4: [VLESS-TLS] VIP1
 vless://a1dd88e7-98ae-418f-8794-71000e16f71a@104.18.20.212:443?path=%2Fvless&security=tls&encryption=none&host=gcp.hothotplus.my.id&type=ws&sni=gcp.hothotplus.my.id#%5BVLESS-TLS%5D%20VIP1
+
+# Server 5: Singapore 339518 🇸🇬
+vless://5bd65284-af28-4565-8e17-1e4c7fd568cf@104.18.20.212:443?path=%2F103.195.191.70-443&security=tls&encryption=none&host=upload.youtube.com.aio.bdloser.us.ci&type=ws&sni=upload.youtube.com.aio.bdloser.us.ci#Singapore%20339518%20%7C%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 6: Singapore 2 339518 🇸🇬
+vless://5bd65284-af28-4565-8e17-1e4c7fd568cf@104.18.20.212:80?path=%2F103.195.191.70-443&security=&encryption=none&host=upload.youtube.com.aio.bdloser.us.ci&type=ws#Singapore%202%20339518%20%7C%20%F0%9F%87%B8%F0%9F%87%AC
