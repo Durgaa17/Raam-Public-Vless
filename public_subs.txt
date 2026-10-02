@@ -3,7 +3,7 @@
 # ============================================
 
 # Server 1: EVOXT-KL 🇲🇾
-vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@104.18.21.212:443?path=%2Fmediafairy%2F45.195.69.44%3A8443&security=tls&encryption=none&host=free.tunneling.dpdns.org&type=ws&sni=free.tunneling.dpdns.org#EVOXT-KL%20%F0%9F%87%B2%F0%9F%87%BE
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@104.18.21.212:443?path=%2Fmediafairy%2F45.195.69.44%3A8443&security=tls&encryption=none&host=mediafairy.us.ci&type=ws&sni=mediafairy.us.ci#EVOXT-KL%20%F0%9F%87%B2%F0%9F%87%BE
 
 # Server 2: SG Multi 🇸🇬
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@104.18.21.212:443?path=%2Fmediafairy%2Fproxyip.SG.cmliussss.net%3A443&security=tls&encryption=none&host=free.tunneling.dpdns.org&fp=random&type=ws&sni=free.tunneling.dpdns.org#SG%20Multi
